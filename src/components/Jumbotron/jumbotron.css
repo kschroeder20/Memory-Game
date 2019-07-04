@@ -1,0 +1,21 @@
+#instructionHeadline {
+  text-align: center;
+  font-size: 100px;
+}
+
+#instructionParagraph {
+  text-align: center;
+  font-size: 30px;
+  margin: 0px 10px;
+}
+
+p {
+  text-align: center;
+}
+
+#jumbotronContent {
+  background-image: url("../../hardwoodbackground.gif");
+  margin-bottom: 0rem;
+  color: white;
+  text-shadow: 2px 2px black;
+}

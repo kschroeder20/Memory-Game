@@ -8,11 +8,20 @@
 .navbar ul {
   width: 100%;
 }
-
 .navbar li {
   display: inline-block;
   text-align: center;
-  width: 25%;
   padding-top: 20px;
-  font-size: 20px;
+}
+/* .gameTitle {
+  width: 50%;
+  font-size: 35px;
+  font-weight: bold;
+} */
+
+.scoreDisplay {
+  width: 50%;
+  font-size: 30px;
+  font-weight: bold;
+  text-align: center;
 }
