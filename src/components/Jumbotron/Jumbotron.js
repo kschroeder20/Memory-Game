@@ -4,7 +4,7 @@ import "./jumbotron.css";
 class Jumbotron extends Component {
     render() {
         return (
-            <div id="jumbotronContent" className="jumbotron jumbotron-fluid">
+            <div id="jumbotronContent" className="jumbotron jumbotron-fluid container">
                 <div>
                     <h1 className="display-10" id="instructionHeadline">Remeber the Logo</h1>
                     <p className="lead" id="instructionParagraph">

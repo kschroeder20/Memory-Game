@@ -12,7 +12,7 @@ class Card extends Component {
             height: 'auto'
         }
         return (
-            <div className="text-center" >
+            <div className="text-center container" >
                 {
                     this.props.logos.map(image => (
                         <img
