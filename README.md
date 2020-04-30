@@ -8,7 +8,7 @@ The goal was to showcase my skills in react by building a basic react app that h
 
 ### How to Use
 
-You can use this game [here](https://warm-headland-71662.herokuapp.com/)
+You can use this game [here](https://nba-logo-memory-game.herokuapp.com/)
 
 ### Technologies Used 
 * React
